@@ -16,3 +16,17 @@
   -webkit-transform: scale(1.02);
   transform: scale(1.02);
 }
+
+.nodeflair-green {
+  background-color: #e2f6ea;
+  color: #5ec373;
+}
+
+.nodeflair-grey {
+  background-color: #f1f1f1;
+  color: #838383;
+}
+
+.nodeflair-cream {
+  background-color: #f3f2ef;
+}
